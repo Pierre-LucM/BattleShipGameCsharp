@@ -1,7 +1,4 @@
-# BN2024_GROUPE10
+# Battle Ship Game 
 
-Members : 
-- Victor Dussaussois
-- Pierre-Luc Millet
-- Arthur Pineau
-  
+Creation of multiplayer battle ship game
+
